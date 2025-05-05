@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Model files
+models/*.h5
+models/training_history.json
+
+# Data directories
+data/PlantVillage/
+
 # C extensions
 *.so
 
